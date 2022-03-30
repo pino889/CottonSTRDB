@@ -1,2 +1,2 @@
 # CottonSTRDB
-app.R为运行可视化shiny界面的源代码
+CottonSTRDB_Shiny.R为运行可视化shiny界面的源代码
